@@ -1,0 +1,7 @@
+# Arquivos gerados pela compilação (cmake -S . -B build)
+build/
+build-*/
+
+# Configurações locais de editor
+.vscode/
+.cache/
